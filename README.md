@@ -1,5 +1,5 @@
 <h1 align="center"> Tim-rdt</h1>
-- 🌱 I’m currently learning **C at 42**
+- 🌱 I’m currently learning C at <bold>42</bold>
 
 - 👨‍💻 All of my projects are available at [Tim-rdt](https://github.com/Tim-rdt)
 
