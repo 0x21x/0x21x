@@ -6,6 +6,7 @@
 
 ###
 
+<br clear="both">
 <div align="center">
   <picture><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" width="62" alt="python logo"  /></picture>
   <picture><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="50" width="62" alt="android logo"  /></picture>
@@ -29,6 +30,8 @@
 </div>
 
 ###
+  
+  <br clear="both">
 
 <div align="center">
   <picture><img src="https://github-readme-stats.vercel.app/api?username=tim-rdt&theme=algolia&show_icons=true&hide_border=true&count_private=true" height="150" alt="stats graph"  /></picture>
