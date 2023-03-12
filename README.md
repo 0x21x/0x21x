@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <picture><img height="75" src="https://share.creavite.co/MMSMyND1qKkNBY7J.gif"  /></picture>
+  <picture><img height="75" src="https://share.creavite.co/H14ts8oW89yqfxJE.gif"  /></picture>
 </div>
 
 ###
@@ -25,8 +25,6 @@
 <div align="center">
   <a href="https://discord.gg/users/4t92csMt" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-   <a href="https://42born2code.slack.com/team/U0497742H9S" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=FF0066&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
 </div>
 
