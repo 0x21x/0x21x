@@ -29,11 +29,5 @@
   </a>
 </div>
 
-###
-  
-  <br clear="both">
-
-<div align="center">
-  <picture><img src="https://github-readme-stats.vercel.app/api?username=tim-rdt&theme=algolia&show_icons=true&hide_border=true&count_private=true" height="150" alt="stats graph"  /></picture>
 
 ###
