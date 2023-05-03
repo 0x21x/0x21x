@@ -19,15 +19,5 @@
   <picture><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="50" width="62" alt="apple logo"  /></picture>
 </div>
 
-###
-
-<br clear="both">
-
-<div align="center">
-  <a href="https://discord.gg/users/4t92csMt" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-</div>
-
 
 ###
