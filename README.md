@@ -1,12 +1,4 @@
 <br clear="both">
-
-<div align="center">
-  <img height="75" src="https://share.creavite.co/H14ts8oW89yqfxJE.gif"  />
-</div>
-
-###
-
-<br clear="both">
 <div align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" width="62" alt="c logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" width="62" alt="c logo"  />
