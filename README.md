@@ -45,6 +45,5 @@
 <br>
 <div align="center">
 <a href="https://github.com/0x21x">
-<img align="center" height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x21x&layout=compact&theme=dark" alt=0x21x />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=0x21x&theme=city_lights" height="120em" />
 </div>
